@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tawkto/static/css/main.b100e6da.chunk.css",
-    "main.js": "/tawkto/static/js/main.c995c84c.chunk.js",
-    "main.js.map": "/tawkto/static/js/main.c995c84c.chunk.js.map",
+    "main.css": "/tawkto/static/css/main.9c975d38.chunk.css",
+    "main.js": "/tawkto/static/js/main.0892ca07.chunk.js",
+    "main.js.map": "/tawkto/static/js/main.0892ca07.chunk.js.map",
     "runtime-main.js": "/tawkto/static/js/runtime-main.6c053a24.js",
     "runtime-main.js.map": "/tawkto/static/js/runtime-main.6c053a24.js.map",
     "static/js/2.d0d1ec3a.chunk.js": "/tawkto/static/js/2.d0d1ec3a.chunk.js",
     "static/js/2.d0d1ec3a.chunk.js.map": "/tawkto/static/js/2.d0d1ec3a.chunk.js.map",
     "index.html": "/tawkto/index.html",
-    "precache-manifest.780d6beb23e3d855298d195999eec9da.js": "/tawkto/precache-manifest.780d6beb23e3d855298d195999eec9da.js",
+    "precache-manifest.c8f0ab234413c19613fa7527b8c1c3ad.js": "/tawkto/precache-manifest.c8f0ab234413c19613fa7527b8c1c3ad.js",
     "service-worker.js": "/tawkto/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/tawkto/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/tawkto/static/media/logo.25bf045c.svg"
+    "static/css/main.9c975d38.chunk.css.map": "/tawkto/static/css/main.9c975d38.chunk.css.map",
+    "static/media/logo.png": "/tawkto/static/media/logo.f936bb27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c053a24.js",
     "static/js/2.d0d1ec3a.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.c995c84c.chunk.js"
+    "static/css/main.9c975d38.chunk.css",
+    "static/js/main.0892ca07.chunk.js"
   ]
 }
