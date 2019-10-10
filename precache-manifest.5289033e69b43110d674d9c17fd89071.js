@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78f633ff2091b369b24cfb9aa346729f",
+    "revision": "d4f7fc5b207bfa9a247d0e7a336491fb",
     "url": "/tawkto/index.html"
   },
   {

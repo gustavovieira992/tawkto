@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tawkto/precache-manifest.c8f0ab234413c19613fa7527b8c1c3ad.js"
+  "/tawkto/precache-manifest.5289033e69b43110d674d9c17fd89071.js"
 );
 
 self.addEventListener('message', (event) => {
